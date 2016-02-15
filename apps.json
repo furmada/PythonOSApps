@@ -2,8 +2,9 @@
   "name": "Python OS Main Repository",
   "maintainer": "Adam Furman",
   "url": "http://www.github.com/furmada/PythonOSApps/",
-  "apps_dir":  "apps",
+  "apps_dir": "apps",
   "apps": [
     "about"
-  ]
+  ],
+  "featured": "about"
 }
