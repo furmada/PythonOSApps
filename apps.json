@@ -4,7 +4,8 @@
   "url": "http://www.github.com/furmada/PythonOSApps/",
   "apps_dir": "apps",
   "apps": [
-    "about"
+    "about",
+    "calculator"
   ],
-  "featured": "about"
+  "featured": "calculator"
 }
