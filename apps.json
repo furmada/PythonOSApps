@@ -9,7 +9,7 @@
     "clock",
     "file-reader",
     "image-viewer",
-	"test"
+	  "test"
   ],
   "featured": "calculator"
 }
