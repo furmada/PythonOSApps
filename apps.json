@@ -5,7 +5,10 @@
   "apps_dir": "apps",
   "apps": [
     "about",
-    "calculator"
+    "calculator",
+    "clock",
+    "file-reader",
+    "image-viewer"
   ],
   "featured": "calculator"
 }
