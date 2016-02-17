@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "Python OS Main Repository",
   "maintainer": "Adam Furman",
   "url": "http://www.github.com/furmada/PythonOSApps/",
@@ -8,7 +8,8 @@
     "calculator",
     "clock",
     "file-reader",
-    "image-viewer"
+    "image-viewer",
+	"test"
   ],
   "featured": "calculator"
 }
