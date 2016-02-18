@@ -9,7 +9,16 @@
     "clock",
     "file-reader",
     "image-viewer",
-    "test"
+    "test",
+	"files",
+	"launcher",
+	"music-player",
+	"pman",
+	"quit",
+	"state-shell",
+	"stopwatch",
+	"task-manager",
+	"timer"
   ],
   "featured": "calculator"
 }
