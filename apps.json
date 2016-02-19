@@ -18,7 +18,9 @@
 	"state-shell",
 	"stopwatch",
 	"task-manager",
-	"timer"
+	"timer",
+	"usb-mount",
+	"home"
   ],
   "featured": "calculator"
 }
