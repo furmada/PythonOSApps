@@ -20,7 +20,8 @@
 	"task-manager",
 	"timer",
 	"usb-mount",
-	"home"
+	"home",
+	"sleep"
   ],
   "featured": "calculator"
 }
