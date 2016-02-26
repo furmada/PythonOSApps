@@ -21,7 +21,8 @@
 	"timer",
 	"usb-mount",
 	"home",
-	"sleep"
+	"sleep",
+	"wifi"
   ],
   "featured": "calculator"
 }
