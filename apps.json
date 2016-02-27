@@ -22,7 +22,8 @@
 	"usb-mount",
 	"home",
 	"sleep",
-	"wifi"
+	"wifi",
+	"dev-refresh"
   ],
-  "featured": "calculator"
+  "featured": "music-player"
 }
