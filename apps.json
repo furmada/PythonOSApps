@@ -23,7 +23,8 @@
 	"home",
 	"sleep",
 	"wifi",
-	"dev-refresh"
+	"dev-refresh",
+	"gallery"
   ],
-  "featured": "music-player"
+  "featured": "gallery"
 }
