@@ -24,7 +24,8 @@
 	"sleep",
 	"wifi",
 	"dev-refresh",
-	"gallery"
+	"gallery",
+	"immersion-test"
   ],
   "featured": "gallery"
 }
