@@ -26,7 +26,8 @@
 	"dev-refresh",
 	"gallery",
 	"immersion-test",
-	"post10forum"
+	"post10forum",
+	"starforce"
   ],
-  "featured": "gallery"
+  "featured": "starforce"
 }
