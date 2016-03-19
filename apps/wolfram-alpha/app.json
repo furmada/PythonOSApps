@@ -1,7 +1,7 @@
 {
   "name": "wolfram-alpha",
   "title": "Alpha",
-  "version": 1.0,
+  "version": 1.1,
   "author": "Adam Furman",
   "module": "wolfram-alpha",
   "main": "run",
@@ -10,5 +10,5 @@
     "onStart": "onStart",
     "colorScheme": "dark"
   },
-  "description": "Search for information using Wolfram|Alpha. Enter any query, and get meaningful results."
+  "description": "Search for information using Wolfram|Alpha. Enter any query, and get meaningful results. Tap each image to open larger view."
 }
