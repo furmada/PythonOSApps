@@ -28,7 +28,8 @@
 	"immersion-test",
 	"post10forum",
 	"starforce",
-	"wolfram-alpha"
+	"wolfram-alpha",
+	"shutdown"
   ],
-  "featured": "wolfram-alpha"
+  "featured": "shutdown"
 }
